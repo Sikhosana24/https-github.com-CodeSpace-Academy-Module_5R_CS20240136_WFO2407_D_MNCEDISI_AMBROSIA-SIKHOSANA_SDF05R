@@ -51,4 +51,30 @@ p {
     outline: none;
 }
 
+.btn-1:hover{
+    background-color: aqua;
+    color: black;
+    border: black 1px;
+    transform: translateY(-5px);
+    box-shadow: 0 15px 20px grey;
+    
+    
+
+}
+.btn-2:hover{
+    background-color: chartreuse;
+    color: black;
+    border: black 1px;
+    transform:translateY(-5px);
+    box-shadow:0 15px 20px grey;
+}
+.btn-3:hover{
+    background-color: red;
+    color: black;
+    border: black 1px;
+    transform: translateY(-5px);
+    box-shadow:0 15px 20px grey;
+
+    
+}
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
